@@ -1,4 +1,4 @@
-baseURL = "https://www.lakurdinawebsite.github.io/"
+baseURL = "https://lakurdinawebsite.github.io/"
 languageCode = "en-gb"
 title = "Welcome to Lakurdina"
 theme = "hugograyscale"
