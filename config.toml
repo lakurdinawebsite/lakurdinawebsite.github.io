@@ -1,0 +1,17 @@
+baseURL = "https://www.lakurdina.com/"
+languageCode = "en-gb"
+title = "Welcome to Lakurdina"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "The Lakurdina Main Site"
+
+[Author]
+    name = "Lakurdina"
+    #email = ""
+
+[Social]
+    #twitter = ""
