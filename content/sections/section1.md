@@ -1,6 +1,7 @@
 ---
 title: "About"
 weight: 2
+draft: true
 ---
 
 ## About Lakurdina
