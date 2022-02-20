@@ -11,7 +11,7 @@ Who I am is of no importance. Well it is to me, but I believe it should have no 
 
 I do believe, however, that some contextual information is important, and so a small amount is provided below.
 
-- OS - This is me: website administrator, writer, ocasional poet. Particular interests include meteorology, education and the insanities of our world. The Weather section of the site is my pet project.
+- OS - This is me: administrator of the Lakurdina website, writer, ocasional poet. Particular interests include meteorology, education and the insanities of our world. The Weather section of the site is my pet project.
 
-In time, other contributors may choose to include information about themselves, but at this time noone has.
+In time, other contributors may choose to include information about themselves, but at this time no-one has.
 

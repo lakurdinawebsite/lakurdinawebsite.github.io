@@ -2,9 +2,9 @@
 title: "Header"
 weight: 1
 improvecontrast: true
-draft: true
+draft: false
 ---
 
 # Lakurdina
 
-Where a small collective of people publish articles and information on subjects of interest to us.
+Welcome to Lakurdina. Where a small group of contributors publish articles on subjects that interest them.
