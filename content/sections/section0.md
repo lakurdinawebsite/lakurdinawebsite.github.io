@@ -7,4 +7,4 @@ draft: false
 
 # Lakurdina
 
-Welcome to Lakurdina. Where a small group of contributors publish articles on subjects that interest them.
+Welcome to Lakurdina; The Blue Lake. Here a small group of contributors publish articles on subjects that interest them.
