@@ -12,6 +12,6 @@ Our aim is to challenge common and established views where we feel that they lac
 
 You will also find poems and short stories in a range of styles, covering a range of ideas.
 
-For articles and rants, please visit [Articles](https://articles.lakurdina.com). For poems and sories, pleas visit [Literature](https://literature.lakurdina.com) For thoughts on meteorology, as well as weather information and data, see [Weather](https://weather.lakurdina.com). For articles on the effects of modern society on education and child development see [Education](https://education.lakurdina.com). For our news visit our [Blog](blog.lakurdina.com)
+For articles and rants, please visit [Articles](https://articles.lakurdina.com). For poems and sories, please visit [Literature](https://literature.lakurdina.com). For thoughts on meteorology, as well as weather information and data, see [Weather](https://weather.lakurdina.com). For articles on the effects of modern society on education and child development see [Education](https://education.lakurdina.com). For our news visit our [Blog](blog.lakurdina.com)
 
 ***Please note that this site is currently under development and some sections will experience significant downtime.***
